@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    font-family: sans-serif 'poppins';
+}
+.intro-title{
+    font-size: 70px;
+}
+.intro-img{
+    height: 100%;
+    width: 105% !important;
+}
+.intro-btn{
+    background: #5468E7;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    color: #ffff;
+    padding: .8rem  1rem ;
+    transition: .3s;
+}
+.intro-btn:hover{
+    background: #6548E8;
+    box-shadow: 0 2px 13px 4px rgb(228, 228, 228);
+}
